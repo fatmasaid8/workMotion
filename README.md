@@ -2,11 +2,18 @@
 
 This repository contains Cypress tests for the WorkMotion project.
 
+### Technologies
+- Javascript: npm 10.5.0
+- Cypress: v13.7.4
+- Chrome: v123
+
 ## Installation
 
 1. Clone this repository: `git clone https://github.com/fatmasaid8/workMotion`
-2. Navigate to the project directory.
+2. Navigate to the project's directory.
 3. Install dependencies: `npm install`
+4. Install cypress: `npm  install cypress`
+5. 
 
 ## Running Tests
 
