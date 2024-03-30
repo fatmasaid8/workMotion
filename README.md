@@ -5,7 +5,7 @@ This repository contains Cypress tests for the WorkMotion project.
 ## Installation
 
 1. Clone this repository: `git clone https://github.com/fatmasaid8/workMotion`
-2. Navigate to the project directory: `cd workmotion-cypress-tests`
+2. Navigate to the project directory.
 3. Install dependencies: `npm install`
 
 ## Running Tests
@@ -20,7 +20,7 @@ This will open the Cypress Test Runner, where you can select and run individual 
 
 ### Headless Mode
 
-To run Cypress in headless mode (for CI/CD), use the following command:
+To run Cypress in headless mode (can be helpful for for CI/CD), use the following command:
 
 ```npx cypress run```
 
