@@ -13,7 +13,6 @@ This repository contains Cypress tests for the WorkMotion project.
 2. Navigate to the project's directory.
 3. Install dependencies: `npm install`
 4. Install cypress: `npm  install cypress`
-5. 
 
 ## Running Tests
 
