@@ -4,7 +4,7 @@ This repository contains Cypress tests for the WorkMotion project.
 
 ## Installation
 
-1. Clone this repository: `git clone <repository-url>`
+1. Clone this repository: `git clone https://github.com/fatmasaid8/workMotion`
 2. Navigate to the project directory: `cd workmotion-cypress-tests`
 3. Install dependencies: `npm install`
 
